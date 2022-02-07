@@ -1,1 +1,1 @@
-This is sample chat app by laravel chatify.
+This is simple chat app by laravel chatify.
